@@ -24,6 +24,6 @@ This project focuses on building a machine learning model to classify different 
    - Finally, we create a user-friendly Streamlit application that allows users to input fruit characteristics and receive predictions on the type of fruit.
 
 ## Output
-[!Stream App][images/Streamlitapp1.png]
-[!Stream App][images/Streamlitapp2.png]
-[!Stream App][images/Streamlitapp3.png]
+[!Stream App](images/Streamlitapp1.png)
+[!Stream App](images/Streamlitapp2.png)
+[!Stream App](images/Streamlitapp3.png)
